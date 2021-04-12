@@ -15,7 +15,7 @@ if you need to set up a development environment for Rails, go to this **[website
 ## Install & run project :
 
 ```shell
-git clone git@github.com/tmicka23/click-n-co-api.git
+git clone git@github.com:tmicka23/click-n-co-api.git
 cd click-n-co-api
 bundle install
 rails db:setup
