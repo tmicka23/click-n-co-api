@@ -4,6 +4,10 @@
 
 **2.7.2**
 
+## Bundler version :
+
+**2.1.4**
+
 ## Rails version :
 
 **6.1.3.1**
